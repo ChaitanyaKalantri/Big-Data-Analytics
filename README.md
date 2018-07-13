@@ -16,7 +16,7 @@
   - To understand how to process images of large size.
  
 ## Project: Role of Tourism on Economic Development
-There were three main objectives of the project:
+#### There were three main objectives of the project:
 1. To find the effect of variation in tourism with respect to the economic development of different states within USA.
 2. Develop a ***Recommendation System***.
   - Given the name of the place the user is visiting, the recommendation system would recommend the top 10 best places to visit in that particular state.
